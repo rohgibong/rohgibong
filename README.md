@@ -35,12 +35,11 @@
 
 <br/>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <div style="display: flex; flex-direction: column; align-items: center;">
-        <img src="https://github-readme-stats.vercel.app/api?username=rohgibong&show_icons=true&theme=dark" style="height: 195px;"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohgibong&langs_count=10&layout=compact&theme=dark" style="height: 195px;"/>
-    </div>
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=rohgibong&show_icons=true&theme=dark" style="height: 195px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohgibong&langs_count=10&layout=compact&theme=dark" style="height: 195px;"/>
 </div>
+
 
 
 
