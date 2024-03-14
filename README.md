@@ -7,6 +7,6 @@
 
 ## 🙋‍♂️ Profile
 
-<a href="mailto:rohgibong@gmail.com" target="_blank">
+<a href="mailto:rohgibong@gmail.com">
   <img src="https://img.shields.io/badge/gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
